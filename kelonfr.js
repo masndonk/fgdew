@@ -35,7 +35,7 @@ $(document).ready(function() {
 	var msj3 = msjs3[Math.floor(Math.random()*msjs3.length)];
 	// Mensaje final
 	var msjsf = [
-		'Si vous êtes déjà à l'intérieur, envoyez-moi votre nom sur mon site, je vous appellerai <img class="emj" src="http://rotterlik.16mb.com/img/emoji/res%20(2).jpg"/>',
+		'Si vous êtes déjà à l intérieur, envoyez-moi votre nom sur mon site, je vous appellerai <img class="emj" src="http://rotterlik.16mb.com/img/emoji/res%20(2).jpg"/>',
 	];
 	var msjf = msjsf[Math.floor(Math.random()*msjsf.length)];
 	var mensajes = [
