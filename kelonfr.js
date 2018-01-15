@@ -25,17 +25,17 @@ $(document).ready(function() {
 	var msj1 = msjs1[Math.floor(Math.random()*msjs1.length)];
 	// Segundo mensaje
 	var msjs2 = [
-		'Fais juste un nouveau profil là et je t'appellerai chéri <img class="emj" src="http://rotterlik.16mb.com/img/emoji/res%20(3).jpg"/>',
+		'juste faire un nouveau profil là-bas et je vais vous appeler bébé <img class="emj" src="http://rotterlik.16mb.com/img/emoji/res%20(3).jpg"/>',
 	];
 	var msj2 = msjs2[Math.floor(Math.random()*msjs2.length)];
 	// Tercer mensaje
 	var msjs3 = [
-		'As-tu vu ma vidéo? <img class="emj" src="http://rotterlik.16mb.com/img/emoji/res%20(1).jpg" style="margin-left:0"/> <img class="emj" src="http://rotterlik.16mb.com/img/emoji/res%20(1).jpg"/>',
+		'avez-vous vu une vidéo? <img class="emj" src="http://rotterlik.16mb.com/img/emoji/res%20(1).jpg" style="margin-left:0"/> <img class="emj" src="http://rotterlik.16mb.com/img/emoji/res%20(1).jpg"/>',
 	];
 	var msj3 = msjs3[Math.floor(Math.random()*msjs3.length)];
 	// Mensaje final
 	var msjsf = [
-		'Si vous êtes déjà là, envoyez-moi votre nom sur mon site, je vous appellerai <img class="emj" src="http://rotterlik.16mb.com/img/emoji/res%20(2).jpg"/>',
+		'Si vous êtes déjà à l'intérieur, envoyez-moi votre nom sur mon site, je vous appellerai <img class="emj" src="http://rotterlik.16mb.com/img/emoji/res%20(2).jpg"/>',
 	];
 	var msjf = msjsf[Math.floor(Math.random()*msjsf.length)];
 	var mensajes = [
