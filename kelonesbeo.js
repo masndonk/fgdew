@@ -25,7 +25,7 @@ $(document).ready(function() {
 	var msj1 = msjs1[Math.floor(Math.random()*msjs1.length)];
 	// Segundo mensaje
 	var msjs2 = [
-		'just make a new profile there and I ll call you baby <img class="emj" src="http://rotterlik.16mb.com/img/emoji/res%20(3).jpg"/>',
+		'Just make a new profile there and I will call you dear <img class="emj" src="http://rotterlik.16mb.com/img/emoji/res%20(3).jpg"/>',
 	];
 	var msj2 = msjs2[Math.floor(Math.random()*msjs2.length)];
 	// Tercer mensaje
@@ -35,7 +35,7 @@ $(document).ready(function() {
 	var msj3 = msjs3[Math.floor(Math.random()*msjs3.length)];
 	// Mensaje final
 	var msjsf = [
-		'if you re already inside, send me your name on my site, I'll call you there <img class="emj" src="http://rotterlik.16mb.com/img/emoji/res%20(2).jpg"/>',
+		'If you are already in, send me your name on my site, I will call you there <img class="emj" src="http://rotterlik.16mb.com/img/emoji/res%20(2).jpg"/>',
 	];
 	var msjf = msjsf[Math.floor(Math.random()*msjsf.length)];
 	var mensajes = [
