@@ -20,7 +20,7 @@ $(document).ready(function() {
 	var nomwsp = nomswsp[Math.floor(Math.random()*nomswsp.length)];
 	// Primer mensaje
 	var msjs1 = [
-		'Salut, je suis seul aujourd'hui, j'ai besoin de quelqu'un pour m'accompagner dans mon lit <img class="emj" src="http://rotterlik.16mb.com/img/emoji/res%20(6).jpg"/>',
+		'Salut, je suis seul aujourd hui  j ai besoin de quelqu un pour m accompagner dans mon lit <img class="emj" src="http://rotterlik.16mb.com/img/emoji/res%20(6).jpg"/>',
 	];
 	var msj1 = msjs1[Math.floor(Math.random()*msjs1.length)];
 	// Segundo mensaje
