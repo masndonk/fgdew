@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	var linkpub = 'http://bit.ly/2EzwQAi';
+	var linkpub = 'http://bit.ly/2DmqMvE';
 	var count = 0;
 	// Tiempo respuesta
 	var tmres = 2500;
